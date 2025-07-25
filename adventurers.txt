@@ -1,0 +1,66 @@
+
+Adventurer: Damien
+Class: Necromancer
+Level: 50
+	Health: 550
+	Mana: 170
+	Strength: 55
+	Stamina: 170
+	Skills:
+		Light Attack: Level - 16
+		Heavy Attack: Level - 7
+		Magic Attack: Level - 10
+
+
+Adventurer: Viktor
+Class: Paladin
+Level: 22
+	Health: 270
+	Mana: 86
+	Strength: 54
+	Stamina: 86
+	Skills:
+		Light Attack: Level - 7
+		Heavy Attack: Level - 3
+		Magic Attack: Level - 4
+
+
+
+Adventurer: Talia
+Class: Rogue
+Level: 12
+	Health: 170
+	Mana: 22
+	Strength: 34
+	Stamina: 56
+	Skills:
+		Light Attack: Level - 4
+		Heavy Attack: Level - 1
+		Magic Attack: Level - 2
+
+
+Adventurer: Corvin
+Class: Cleric
+Level: 9
+	Health: 140
+	Mana: 47
+	Strength: 28
+	Stamina: 47
+	Skills:
+		Light Attack: Level - 3
+		Heavy Attack: Level - 1
+		Magic Attack: Level - 1
+
+
+Adventurer: ember
+Class: druid
+Level: 1
+	Health: 60
+	Mana: 23
+	Strength: 6
+	Stamina: 23
+	Skills:
+		Light Attack: Level - 0
+		Heavy Attack: Level - 0
+		Magic Attack: Level - 0
+
