@@ -1,0 +1,1 @@
+from Editors.CharacterCreator.character_editor import create_adventurer
