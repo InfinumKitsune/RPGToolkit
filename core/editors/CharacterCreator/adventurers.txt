@@ -1,4 +1,3 @@
-
 Adventurer: Damien
 Class: Necromancer
 Level: 50

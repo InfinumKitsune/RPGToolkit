@@ -1,6 +1,9 @@
 import utils
 import time
 
+# ------- Character Creator Module -------
+
+# Function to create a new adventurer and save their stats to the file
 def create_adventurer():
     name = input("Enter the name of the adventurer: ")
     while True:
